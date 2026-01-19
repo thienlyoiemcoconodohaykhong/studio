@@ -5,4 +5,5 @@ export type Book = {
   coverImage: string;
   imageHint: string;
   downloadUrl: string;
+  content: string;
 };
